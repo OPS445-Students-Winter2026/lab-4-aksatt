@@ -1,0 +1,11 @@
+OPS445 Lab Report - System Information for running ./CheckLab4.py
+=================================================================
+    User login name: aksatt
+    Linux system name: aksatt
+    Python executable: /usr/bin/python3
+    Python version:  3.12.3 (main, Jan  8 2026, 11:30:50) [GCC 13.3.0]
+    VS Code version:  1.109.0 646
+    OS Platform: linux
+    Working Directory: /home/aksatt/ops445/lab4
+    Start at: Sun Feb  8 16:34:52 2026
+=================================================================
